@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Where-is-my-god-.sln"
+    "dotnet.defaultSolution": "Where-is-my-god.sln"
 }
