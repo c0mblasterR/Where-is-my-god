@@ -38,17 +38,20 @@ public class GameManager : MonoBehaviour
 
     //-------------------------------------------------------------------------------------------------------------------------//
 
-    void Awake()
+    // Sahne yüklendiğinde bir kere çalışır.
+    private void Awake()
     {
 
     }
 
-    void Start()
+    // Obje aktif edildiğine bir kere çalışır.
+    private void Start()
     {
 
     }
 
-    void Update()
+    // Oyun çalışıyorken her karede bir kere çalışır.
+    private void Update()
     {
 
     }
